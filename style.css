@@ -1,0 +1,58 @@
+html {
+    background-color: #cabfb6;
+    width: center fixed 600px;
+    font-family: 'Cinzel', serif;
+    font-family: 'New Tegomin', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+body {
+    padding: 100px;
+    background: white;
+    margin: 25px 450px;
+}
+
+
+p2 {
+    font-size: 50px;
+}
+
+a {
+    border-radius: 5px;
+    background-color:#c9793b;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+
+a:hover {
+    border: black 1px solid;
+}
+
+.Ad {
+    background-color: #a4c93b;
+    padding: 5px 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.Ap {
+    border: none;
+    padding: 5px 20px;
+    background-color: #b6bcca;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.b1p {
+    text-align: center;
+}
+
+.ph {
+    font-size: 80px;
+    text-align: center;
+}
